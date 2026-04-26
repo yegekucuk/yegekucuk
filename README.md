@@ -6,7 +6,7 @@
 
 ## Projects
 
-I ship new stuff in my free time.
+I ship new stuff in my free time. My favorite projects:
 
 * 🧠 **[dexter](https://github.com/yegekucuk/dexter)** - Dexter is a secure Linux command generator CLI powered by Ollama
 * 🗺️ **[travelli](https://travelli.yegekucuk.me/)** - Rate cities across six dimensions, share your experience, discover where to go next
@@ -17,5 +17,3 @@ I ship new stuff in my free time.
 * 🗒️ **[tria](https://github.com/yegekucuk/tria)** - Turn repositories into AI-friendly summaries in less than 30 seconds
 * 🐝 **[Biene Flower Hunt Game](https://github.com/yegekucuk/HackUPC2024)** - A game that uses face recognition to control the game character for HackUPC 2024
 * 🐅 **[classifier1](https://github.com/yegekucuk/classifier1)** - A CNN classifier that distinguishes between human and wild animal faces
-* 🔏 **[secure](https://github.com/yegekucuk/secure)** - Git commit and git clone with additional security
-* 📹 **[vidGet](https://github.com/yegekucuk/vidGet)** - Download YouTube videos as MP4 files
