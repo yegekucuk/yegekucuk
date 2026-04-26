@@ -4,6 +4,8 @@
 
 📍 Istanbul
 
+My personal webpage: [yegekucuk.me](https://www.yegekucuk.me/)
+
 ## Projects
 
 I ship new stuff in my free time. My favorite projects:
