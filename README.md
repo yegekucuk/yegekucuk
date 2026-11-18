@@ -1,7 +1,5 @@
 # Hi, I'm Ege 👋
 
-> Highly interested in machine learning and AI applications. I like to see how AI can solve real-world problems.
+> Highly interested in Software development and management.
 
-📍 Istanbul
-
-My personal webpage: [yegekucuk.me](https://www.yegekucuk.me/)
+📍 Istanbul 🌐 [yegekucuk.me](https://www.yegekucuk.me/)
